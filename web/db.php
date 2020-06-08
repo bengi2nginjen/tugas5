@@ -1,7 +1,7 @@
 <?php
-$servername = "dbtugas5.cenzylrufou4.us-east-1.rds.amazonaws.com";
-$username = "admin";
-$password = "adsis-eusebia";
+$servername = "mysql";
+$username = "eusebia";
+$password = "tugas5-eusebia";
 $database = "db_tugas5";
 
 // Create connection

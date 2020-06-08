@@ -13,8 +13,8 @@ services:
         networks:
          - default
 
-#    mysql:
-#        build: mysql
-#        ports:
-#         - "3306:3306"
+    mysql:
+        build: mysql
+        ports:
+         - "3306:3306"
         
