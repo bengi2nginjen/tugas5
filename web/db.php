@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
-$database = "db-tugas5";
+$password = "tugas5_eusebia";
+$database = "db_tugas5";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database) or die("Can't connect to database");
