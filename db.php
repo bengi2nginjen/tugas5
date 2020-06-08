@@ -1,8 +1,8 @@
 <?php
-$servername = "tugas4.cenzylrufou4.us-east-1.rds.amazonaws.com";
-$username = "root";
-$password = "pass1234";
-$database = "php_mysql_crud";
+$servername = getenv('MYSQL_SERVER');
+$username = getenv('MYSQL_USER');
+$password = getenv('MYSQL_PASSWORD');
+$database = getenv('MYSQL_DATABASE');
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database) or die("Can't connect to database");
