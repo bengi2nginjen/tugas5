@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "eusebia";
+$username = "root";
 $password = "";
 $database = "db-tugas5";
 
