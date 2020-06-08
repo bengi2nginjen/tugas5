@@ -1,3 +1,3 @@
-FROM nginx:alpine
+FROM httpd:2.4
 
-COPY tugas5/web/* /usr/share/nginx/html
+COPY ./public-html/ /usr/local/apache2/htdocs/
