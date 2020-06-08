@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "dbtugas5.cenzylrufou4.us-east-1.rds.amazonaws.com";
 $username = "admin";
 $password = "adsis-eusebia";
 $database = "db_tugas5";
