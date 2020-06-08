@@ -1,7 +1,7 @@
 <?php
 $servername = "mysql";
 $username = "eusebia";
-$password = "tugas5-eusebia";
+$password = "tugas5_eusebia";
 $database = "db_tugas5";
 
 // Create connection
