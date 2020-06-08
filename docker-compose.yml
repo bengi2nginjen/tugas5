@@ -3,8 +3,6 @@ version: '3'
 services:
     web:
         build: web
-        depends_on:
-         - mysql
 
     php:
         build: php
