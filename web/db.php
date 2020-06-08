@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "tugas5_eusebia";
+$username = "admin";
+$password = "adsis-eusebia";
 $database = "db_tugas5";
 
 // Create connection

@@ -13,9 +13,8 @@ services:
         networks:
          - default
 
-    mysql:
-        build: mysql
-        ports:
-         - "3306:3306"
-        depends_on:
-         - php
+#    mysql:
+#        build: mysql
+#        ports:
+#         - "3306:3306"
+        
