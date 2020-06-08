@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = getenv('MYSQL_USER');
-$password = getenv('MYSQL_PASSWORD');
-$database = getenv('MYSQL_DATABASE');
+$username = "eusebia";
+$password = "tugas5-eusebia";
+$database = "db-tugas5";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database) or die("Can't connect to database");
