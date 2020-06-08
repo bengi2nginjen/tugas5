@@ -1,3 +1,3 @@
 FROM nginx:alpine
 
-COPY tugasdocker/web/* /usr/share/nginx/html
+COPY tugas5/web/* /usr/share/nginx/html
