@@ -1,4 +1,4 @@
-FROM php:7.2-apache
+FROM php:latest-apache
 
 #ENV MYSQL_HOST dbtugas5.cenzylrufou4.us-east-1.rds.amazonaws.com
 #ENV MYSQL_ROOT_PASSWORD root
