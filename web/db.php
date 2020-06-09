@@ -2,7 +2,7 @@
 $servername = "dbtugas5.cenzylrufou4.us-east-1.rds.amazonaws.com";
 $username = "admin";
 $password = "adsis-eusebia";
-$database = "db-tugas5";
+$database = "db_tugas5";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database) or die("Can't connect to database");
