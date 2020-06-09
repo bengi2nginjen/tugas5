@@ -1,7 +1,7 @@
 FROM php:7.2-apache
 
-ENV MYSQL_HOST mysql_for_web
-ENV MYSQL_ROOT_PASSWORD root
-ENV MYSQL_DATABASE db_tugas5
-ENV MYSQL_USER eusebia
-ENV MYSQL_PASSWORD tugas5_eusebia
+#ENV MYSQL_HOST dbtugas5.cenzylrufou4.us-east-1.rds.amazonaws.com
+#ENV MYSQL_ROOT_PASSWORD root
+#ENV MYSQL_DATABASE db_tugas5
+#ENV MYSQL_USER eusebia
+#ENV MYSQL_PASSWORD tugas5_eusebia

@@ -13,9 +13,9 @@ services:
         networks:
          - default
 
-    mysql:
-        build: mysql
-        container_name: mysql_for_web
-        ports:
-         - "3306:3306"
+#    mysql:
+#        build: mysql
+#        container_name: mysql_for_web
+#        ports:
+#         - "3306:3306"
         
